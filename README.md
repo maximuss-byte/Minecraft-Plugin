@@ -1,6 +1,6 @@
 # Minecraft-Plugin
 
-This will be a Bingo Minecraft Plugin
+This will be a Bingo Minecraft Plugin for 1.18.1+
 
 ## How it works
 
